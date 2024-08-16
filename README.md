@@ -9,7 +9,7 @@ A fun and interactive web-based Tic-Tac-Toe game developed with HTML, CSS, and J
 
 Experience the game by clicking the link below:
 
-[**Play Tic-Tac-Toe**](https://your-deployed-link.com)
+[**Play Tic-Tac-Toe**](https://dugyalavaruntej.github.io/Tic-Tac-Toe-Varun-Tej/)
 
 ## 🗂️ Project Overview
 
@@ -21,7 +21,7 @@ This project consists of the following files:
 
 ## 📖 How to Play
 
-1. **Start the Game**: Open `index.html` in your web browser or [play online](https://your-deployed-link.com).
+1. **Start the Game**: Open `index.html` in your web browser or [play online](https://dugyalavaruntej.github.io/Tic-Tac-Toe-Varun-Tej/).
 2. **Make Your Move**: Click on any box in the 3x3 grid to place your mark ("X" or "O").
 3. **Winning the Game**: Players alternate turns until one player gets three of their marks in a row (horizontally, vertically, or diagonally) or the game ends in a draw.
 4. **Reset the Game**: Use the "New Game" button to start over or the "Reset Game" button to clear the current game board.

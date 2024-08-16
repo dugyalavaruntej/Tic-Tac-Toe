@@ -32,11 +32,11 @@ To run this project on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/dugyalavaruntej/tic-tac-toe.git
+   git clone https://github.com/dugyalavaruntej/Tic-Tac-Toe-Varun-Tej.git
    ```
 2. **Navigate into the project directory**:
    ```bash
-   cd tic-tac-toe
+   cd Tic-Tac-Toe-Varun-Tej
    ```
 3. **Open the game in your browser**:
    ```bash

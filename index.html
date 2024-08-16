@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tic-Tac-Toe | Varun Tej</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="msg-container hide" >
+        <p id="msg">Winner</p>
+        <button id="new-btn">New Game</button>
+    </div>
+    <main>
+        <h1>Tic Tac Toe</h1>
+        <div class="selector">
+            <label for="mode-select" id="txt"><b>Game Mode:</b> </label>
+            <select id="mode-select">
+                <option value="multiplayer">Multiplayer</option>
+                <option value="single">Single Player</option>
+            </select>
+            <label for="difficulty-select" class="hide">Difficulty: </label>
+            <select id="difficulty-select" class="hide">
+                <option value="easy">Easy</option>
+                <option value="medium">Medium</option>
+                <option value="hard">Hard</option>
+            </select>
+        </div>
+        <div class="container">
+            <div class="game">
+                <button class="Box"></button>
+                <button class="Box"></button>
+                <button class="Box"></button>
+                <button class="Box"></button>
+                <button class="Box"></button>
+                <button class="Box"></button>
+                <button class="Box"></button>
+                <button class="Box"></button>
+                <button class="Box"></button>
+            </div>
+        </div>
+        <button id="reset-btn">Reset Game</button>
+    </main>
+    <script src="Game.js"></script>
+</body>
+</html>

@@ -9,7 +9,7 @@ A fun and interactive web-based Tic-Tac-Toe game developed with HTML, CSS, and J
 
 Experience the game by clicking the link below:
 
-[**Play Tic-Tac-Toe**](https://dugyalavaruntej.github.io/Tic-Tac-Toe-Varun-Tej/)
+[**Play Tic-Tac-Toe**](https://dugyalavaruntej.github.io/Tic-Tac-Toe/)
 
 ## 🗂️ Project Overview
 
